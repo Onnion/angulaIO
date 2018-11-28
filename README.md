@@ -29,14 +29,24 @@ cd projeto-projeto
 
 ng serve --open
 
-criação de componente
+//criação de componente
 
 ng g component meu-primeiro2
+
+
+//Criação de modulos
+
+ng g module cursos
+
 
 mostra as atualizações->
 http://es6-features.org/#Constants
 
+mostra componentes prontos do botstrap->
+https://bootswatch.com/journal/
 
 
+# i
+app.module.ts -> é á raiz do projeto
 
 
