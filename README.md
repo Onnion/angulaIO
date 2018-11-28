@@ -33,6 +33,9 @@ criação de componente
 
 ng g component meu-primeiro2
 
+mostra as atualizações->
+http://es6-features.org/#Constants
+
 
 
 
