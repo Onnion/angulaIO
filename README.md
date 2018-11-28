@@ -5,25 +5,26 @@ Exemplo com anglar ->
 https://www.youtube.com/watch?v=XxPjcMTZz5w&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G&index=3
 
 
-angular cli
+//angular cli
 
 npm install -g @angular/cli
 
-Typescript
+//Typescript
 
 npm install -g typescript
 
-testar se esta com o angular cli instalado e ver á versão do angular e do node instalado
+//testar se esta com o angular cli instalado e ver á versão do angular e do node instalado
 
 ng v
 
-comando de criação de um projeto
+//comando de criação de um projeto
 
 ng new projeto-projeto
 
-redirecione para á pasta do novo projeto criado
+//redirecione para á pasta do novo projeto criado
 
 cd projeto-projeto
 
-para testar á aplicação
+//para testar á aplicação
+
 ng serve
