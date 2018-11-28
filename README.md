@@ -27,4 +27,13 @@ cd projeto-projeto
 
 //para testar á aplicação
 
-ng serve
+ng serve --open
+
+criação de componente
+
+ng g component meu-primeiro2
+
+
+
+
+
